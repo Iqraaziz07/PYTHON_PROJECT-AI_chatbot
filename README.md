@@ -4,7 +4,7 @@ The goal of this project is to understand how chatbots work at a beginner level 
 
 
 
-##  What This Chatbot Can Do
+## What This Chatbot Can Do
 
 - Chat with users through text
 - Recognize common messages like greetings, thanks, and goodbyes
@@ -27,16 +27,16 @@ The goal of this project is to understand how chatbots work at a beginner level 
 
 ## How the Chatbot Works
 
-1. The user types a message
-2. The chatbot breaks the message into words using NLP
-3. Keywords are matched with predefined intents
-4. A suitable response is selected randomly
-5. The chatbot displays the response to the user
+- The user types a message
+- The chatbot breaks the message into words using NLP
+- Keywords are matched with predefined intents
+- A suitable response is selected randomly
+- The chatbot displays the response to the user
 
 
 ## How to Run the Project
 
-1. Install Required Libraries
+1.Install Required Libraries
 ```bash
 pip install -r requirements.txt
 ```
@@ -51,11 +51,11 @@ python app.py
 
 ## Future Improvements
 
-1.Add more conversation patterns
-2.Improve chatbot intelligence using machine learning
-3.Enhance the web interface
-4.Add voice-based interaction
+- Add more conversation patterns
+- Improve chatbot intelligence using machine learning
+- Enhance the web interface
+- Add voice-based interaction
 
-Built with python and Nltk
+*Built with python and Nltk.*
 
 
