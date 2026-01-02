@@ -55,6 +55,8 @@ python app.py
 - Improve chatbot intelligence using machine learning
 - Enhance the web interface
 - Add voice-based interaction
+  
+---
 
 *Built with python and Nltk.*
 
